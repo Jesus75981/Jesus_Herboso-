@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\Bibonacci\Bibonacci\bin\Debug\Bibonacci.exe.config
+C:\Users\Usuario\source\repos\Bibonacci\Bibonacci\bin\Debug\Bibonacci.exe
+C:\Users\Usuario\source\repos\Bibonacci\Bibonacci\bin\Debug\Bibonacci.pdb
+C:\Users\Usuario\source\repos\Bibonacci\Bibonacci\obj\Debug\Bibonacci.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Bibonacci\Bibonacci\obj\Debug\Bibonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Bibonacci\Bibonacci\obj\Debug\Bibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Bibonacci\Bibonacci\obj\Debug\Bibonacci.exe
+C:\Users\Usuario\source\repos\Bibonacci\Bibonacci\obj\Debug\Bibonacci.pdb
